@@ -1,1 +1,2 @@
 Este es el setup de mi app web
+Quiero moverlo al stagin area y al local repository para despues moverlo al WD
