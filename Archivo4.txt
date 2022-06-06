@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Este archivo se encuentra en primera_rama 
 haciendo cambios
+=======
+Este archivo se encuentra en primera_rama 
+>>>>>>> llamas_ami
